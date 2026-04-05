@@ -19,13 +19,13 @@ Download whatsapp / Whatsapp Bussiness Status without third party app
             For Whatsapp--&gt;Internal Storage > Android > media > com.whatsapp > WhatsApp > Media > .Statuses</li>
     </ol>
     <p align="center">
-        <img width="180px" src="https://github.com/user-attachments/assets/ca482e25-7c80-43d7-96e8-f85ee0280d79" alt="inernal_sorage">
-        <img width="180px" src="https://github.com/user-attachments/assets/561f9d7a-132b-442a-bb5b-d7c64ffc89c4" alt="android">
-        <img width="180px" src="https://github.com/user-attachments/assets/a6960952-28ea-42cf-83f4-92356ce61d26" alt="media">
-        <img width="180px" src="https://github.com/user-attachments/assets/3edb7cd2-0c41-45fc-9f2b-8c5a30ec77fc" alt="com.whatsapp">
-        <img width="180px" src="https://github.com/user-attachments/assets/00accc12-61cc-49ea-aa9c-917e679e6753" alt="whatsapp">
-        <img width="180px" src="https://github.com/user-attachments/assets/974ae8b8-2d56-4e43-b4e4-e270eeebd2ef" alt="media">
-        <img width="180px" src="https://github.com/user-attachments/assets/4a26d78c-cf52-49e5-904b-4ff3c330ca5d" alt=".status">
+        <img width="170px" src="https://github.com/user-attachments/assets/ca482e25-7c80-43d7-96e8-f85ee0280d79" alt="inernal_sorage">
+        <img width="170px" src="https://github.com/user-attachments/assets/561f9d7a-132b-442a-bb5b-d7c64ffc89c4" alt="android">
+        <img width="170px" src="https://github.com/user-attachments/assets/a6960952-28ea-42cf-83f4-92356ce61d26" alt="media">
+        <img width="170px" src="https://github.com/user-attachments/assets/3edb7cd2-0c41-45fc-9f2b-8c5a30ec77fc" alt="com.whatsapp">
+        <img width="170px" src="https://github.com/user-attachments/assets/00accc12-61cc-49ea-aa9c-917e679e6753" alt="whatsapp">
+        <img width="170px" src="https://github.com/user-attachments/assets/974ae8b8-2d56-4e43-b4e4-e270eeebd2ef" alt="media">
+        <img width="170px" src="https://github.com/user-attachments/assets/4a26d78c-cf52-49e5-904b-4ff3c330ca5d" alt=".status">
     </p>
     <br>
     For WA-Business--&gt;Internal Storage > Android > media > com.whatsapp.w4b > WhatsApp Business > Media > .Statuses
