@@ -1,46 +1,210 @@
 # download_whatsapp_status
 Download whatsapp / Whatsapp Bussiness Status without third party app
 
+ 
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+     
 </head>
 
 <body>
-    <h1>&#128241;Method 1: Using File Manager (Android)</h1>
-    <ol>
-        <li>Watch Whatsapp/ WA-Business Status Onace</li>
-        <li>Open your phone’s File Manager (like Files by Google or your default one).</li>
-        <li>Navigate to:<br>
-            For Whatsapp--&gt;Internal Storage > Android > media > com.whatsapp > WhatsApp > Media > .Statuses</li>
-    </ol>
-    <p align="center">
-        <img width="180px" src="https://github.com/user-attachments/assets/ca482e25-7c80-43d7-96e8-f85ee0280d79" alt="inernal_sorage">
-        <img width="180px" src="https://github.com/user-attachments/assets/561f9d7a-132b-442a-bb5b-d7c64ffc89c4" alt="android">
-        <img width="180px" src="https://github.com/user-attachments/assets/a6960952-28ea-42cf-83f4-92356ce61d26" alt="media">
-        <img width="180px" src="https://github.com/user-attachments/assets/3edb7cd2-0c41-45fc-9f2b-8c5a30ec77fc" alt="com.whatsapp">
-        <img width="180px" src="https://github.com/user-attachments/assets/00accc12-61cc-49ea-aa9c-917e679e6753" alt="whatsapp">
-        <img width="180px" src="https://github.com/user-attachments/assets/974ae8b8-2d56-4e43-b4e4-e270eeebd2ef" alt="media">
-        <img width="180px" src="https://github.com/user-attachments/assets/4a26d78c-cf52-49e5-904b-4ff3c330ca5d" alt=".status">
-    </p>
-    <br>
-    For WA-Business--&gt;Internal Storage > Android > media > com.whatsapp.w4b > WhatsApp Business > Media > .Statuses
-    <br>
-    <ol start="4">
-        </li>
-        <li>If you don’t see the .Statuses folder:</li>
-        <li>Tap the three dots (menu) in the File Manager and select “Show hidden files” or “Show system files.”</li>
-        <li>Open the .Statuses folder to view all the status videos and images you’ve seen.</li>
-        <li>Tap and hold on any video or image to select it, then choose “Copy” or “Move.”</li>
-        <li>Navigate to a different folder (like “Downloads” or “Pictures”) and paste the copied/moved status media
-            there,, otherwise they’ll disappear after 24 hours.</li>
-        <li>You can now view the saved status media in your gallery or file manager.</li <li>
-        </li>
-    </ol>
+    <header>
+        <h1>WhatsApp Status Saver</h1>
+        <p>Learn how to save WhatsApp status videos and photos with these easy methods!</p>
+    </header>
+
+<section>
+        <h1>&#128241;Method 1: Using File Manager (Android)</h1>
+        <ol>
+            <li>Watch Whatsapp/ WA-Business Status Onace</li>
+            <li>Open your phone’s File Manager (like Files by Google or your default one).</li>
+            <li>Navigate to:<br>
+
+For Whatsapp--&gt;Internal Storage > Android > media > com.whatsapp > WhatsApp > Media > .Statuses</li>
+        </ol>
+        <p align="center">
+            <img width="180px" src="https://github.com/user-attachments/assets/ca482e25-7c80-43d7-96e8-f85ee0280d79"
+                alt="inernal_sorage">
+            <img width="180px" src="https://github.com/user-attachments/assets/561f9d7a-132b-442a-bb5b-d7c64ffc89c4"
+                alt="android">
+            <img width="180px" src="https://github.com/user-attachments/assets/a6960952-28ea-42cf-83f4-92356ce61d26"
+                alt="media">
+            <img width="180px" src="https://github.com/user-attachments/assets/3edb7cd2-0c41-45fc-9f2b-8c5a30ec77fc"
+                alt="com.whatsapp">
+            <img width="180px" src="https://github.com/user-attachments/assets/00accc12-61cc-49ea-aa9c-917e679e6753"
+                alt="whatsapp">
+            <img width="180px" src="https://github.com/user-attachments/assets/974ae8b8-2d56-4e43-b4e4-e270eeebd2ef"
+                alt="media">
+            <img width="180px" src="https://github.com/user-attachments/assets/4a26d78c-cf52-49e5-904b-4ff3c330ca5d"
+                alt=".status">
+        </p>
+        <br>
+        For WA-Business--&gt;Internal Storage > Android > media > com.whatsapp.w4b > WhatsApp Business > Media >
+        .Statuses
+
+<p align="center">
+            <img width="180px" src="https://github.com/user-attachments/assets/ca482e25-7c80-43d7-96e8-f85ee0280d79"
+                alt="inernal_sorage">
+            <img width="180px" src="https://github.com/user-attachments/assets/561f9d7a-132b-442a-bb5b-d7c64ffc89c4"
+                alt="android">
+            <img width="180px" src="https://github.com/user-attachments/assets/a6960952-28ea-42cf-83f4-92356ce61d26"
+                alt="media">
+            <img width="180px" src="https://github.com/user-attachments/assets/3edb7cd2-0c41-45fc-9f2b-8c5a30ec77fc"
+                alt="com.whatsapp.w4b">
+            <img width="180px" src="https://github.com/user-attachments/assets/00accc12-61cc-49ea-aa9c-917e679e6753"
+                alt="whatsapp">
+            <img width="180px" src="https://github.com/user-attachments/assets/974ae8b8-2d56-4e43-b4e4-e270eeebd2ef"
+                alt="media">
+            <img width="180px" src="https://github.com/user-attachments/assets/4a26d78c-cf52-49e5-904b-4ff3c330ca5d"
+                alt=".status">
+        </p>
+        <br>
+        <ol start="4">
+            </li>
+            <li>If you don’t see the .Statuses folder:</li>
+            <li>Tap the three dots (menu) in the File Manager and select “Show hidden files” or “Show system files.”
+            </li>
+        </ol>
+        <p align="center">
+            <img width="180px" src="https://github.com/user-attachments/assets/40caf893-46e1-41dd-9ad0-f9597821ad46"
+                alt="three_dots">
+            <img width="180px" src="https://github.com/user-attachments/assets/7af0ab3a-737a-4b77-ac32-02d8fe1defa4"
+                alt="show_hidden_files">
+        </p>
+        <ol start="6">
+            <li>Open the .Statuses folder to view all the status videos and images you’ve seen.</li>
+            <li>Tap and hold on any video or image to select it, then choose “Copy” or “Move.”</li>
+            <li>Navigate to a different folder (like “Downloads” or “Pictures”) and paste the copied/moved status media
+                there,, otherwise they’ll disappear after 24 hours.</li>
+        </ol>
+
+<p align="center">
+            <img width="180px" src="https://github.com/user-attachments/assets/398a5336-4746-4e19-9e46-3b5dc88cba49"
+                alt="three_dots">
+            <img width="180px" src="https://github.com/user-attachments/assets/e761b546-9217-41d5-84fe-430d3286f9d7"
+                alt="copy_to">
+            <img width="180px" src="https://github.com/user-attachments/assets/e816b830-453d-4e4e-9560-da8929a205bb"
+                alt="downloads">
+            <img width="180px" src="https://github.com/user-attachments/assets/95aee443-5d8e-46cf-a72e-4dfa08bf9e76"
+                alt="copy_here">
+        </p>
+
+
+<ol start="9">
+            <li>You can now view the saved status media in your gallery or file manager.</li <li>
+            </li>
+        </ol>
+
+ <br>
+        <br>
+        <br>
+        <hr>
+    </section>
+
+
+<section>
+        <h1>&#128241;Method 2: Using WhatsApp Web (for videos/photos)</h1>
+        <ol>
+            <li>Open <a href="https://web.whatsapp.com/">WhatsApp Web</a> on your PC or laptop.</li>
+            <li>Scan the QR code with your phone’s WhatsApp to log in.</li>
+            <li>Click on the “Status” tab on the left sidebar.</li>
+            <li>Click on any status you want to save to open it.</li>
+            <li>Right-click on the video or photo and select “Save video as…” or “Save image as…” to download it to your
+                computer.</li>
+        </ol>
+
+<br>
+        <br>
+        <br>
+        <hr>
+    </section>
+
+<section>
+        <h1>&#128241;Method 3: Screen Recording / Screenshot (for videos/photos)</h1>
+        <ul>
+            <li>For photos → take a screenshot</li>
+            <li>For videos → use built-in screen recorder
+                <p>(Most Android phones already have this feature)</p>
+            </li>
+
+</ul>
+
+<br>
+        <br>
+        <br>
+        <hr>
+    </section>
+
+<seaction>
+
+<h1>&#128241;Method 4: Using Third-Party Apps (Android)</h1>
+        <p>There are several third-party apps available on the Google Play Store that can help you save WhatsApp status
+            videos and photos. Some popular options include:</p>
+        <ul>
+            <li><a href="https://play.google.com/store/apps/details?id=com.status.downloader.for.whatsapp">Status
+                    Downloader
+                    for WhatsApp</a></li>
+            <li><a href="https://play.google.com/store/apps/details?id=com.whatsappstatussaver">WhatsApp Status
+                    Saver</a>
+            </li>
+            <li><a href="https://play.google.com/store/apps/details?id=com.statussaverforwhatsapp">Status Saver for
+                    WhatsApp</a></li>
+            <p>To use these apps, simply download and install them from the Play Store, then follow the in-app
+                instructions
+                to
+                save the status videos and photos you want.</p>
+        </ul>
+
+<br>
+        <br>
+        <br>
+        <hr>
+
+</section>
+
+
+<section>
+            <h3>&#9888; Important Notes</h3>
+            <ul>
+                <li> I personally do no recomanded meathod 4.</li>
+                <li>WhatsApp status content is meant to be temporary and is only visible for 24 hours. Saving and
+                    sharing this
+                    content without permission may violate the original poster’s privacy.</li>
+                <li>Always respect the privacy of others when saving and sharing WhatsApp status content.</li>
+                <li>Make sure to get permission from the original poster before sharing their status media with others.
+                </li>
+                <li>Be cautious when using third-party apps, as they may require access to your WhatsApp data. Only
+                    download
+                    apps
+                    from reputable developers and check reviews before installing.</li>
+            </ul>
+
+ <br>
+            <br>
+            <br>
+            <hr>
+        </section>
+
+
+<footer>
+            <h2>Connect me</h2>
+            <ul>
+                <li>Email Me: <a href="5x30pm@proton.me">5x30pm@proton.me</a></li>
+                <li><a href="https://github.com/5x30pm">Github Me</a></li>
+                <li> <a href="https://www.linkedin.com/in/5x30pm/">Linkdin Me</a></li>
+            </ul>
+
+<br>
+            <br>
+            <br>
+            <hr>
+            <p align="right">Thanks for visiting My WhatsApp Status Saver Blogs!&hearts;</p>
+
+</footer>
 </body>
 
 </html>
